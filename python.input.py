@@ -8,7 +8,6 @@ print("please input your age")
 age = int(input ("Age: "))
 
 
-print("your name is: " + first_name + "," +last name)
-another way of handling output
+print("your name is: " + first_name + "," +last_name)
 
 
